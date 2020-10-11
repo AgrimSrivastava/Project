@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProjectS</string>
+    <string name="drawer_open">ProjectS</string>
+    <string name="drawer_close">ProjectS</string>
+    <string name="ContactCustomerSupport">Contact Customer Support</string>
+    <string name="home">navhome</string>
+    <string name="contect">contect</string>
+    <string name="rate">rate</string>
+    <string name="feedback">feedback</string>
+    <string name="share">share</string>
+
+
+</resources>
